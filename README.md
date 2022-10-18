@@ -143,6 +143,7 @@ python脚本在`chaoxing/cx.py`文件中，其中第12—34行为配置区域，
 由于本项目被大量fork并启动actions功能，占用github官方服务器大量资源。部分用户反映无法签到，actions功能被禁止等问题。但是大部分用户仍然正常可以使用；解决方法：1.使用使用Travis Ci运行。学业繁忙，不予教程。2.请访问我的服务器 https://cx.clost.net 但并不保证其稳定性。（目前源码臃肿，修改删减后上传）3.用自己的服务器运行其中的py脚本。
 
 
+
 [7]: https://cdn.jsdelivr.net/gh/closty/tuchuang/usr/uploads/2020/04/3749713206.png
 [1]: https://cdn.jsdelivr.net/gh/closty/tuchuang/usr/uploads/2020/04/3207755264.jpg
 [2]:https://cdn.jsdelivr.net/gh/closty/tuchuang/usr/uploads/2020/04/437025077.jpg
